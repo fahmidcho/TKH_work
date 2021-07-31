@@ -1,0 +1,138 @@
+body{
+    /*  background-image:url("images/IMG_0304.JPG");*/
+    }
+    
+    h1{
+      font-family: cursive;
+      text-shadow: -4px 4px 3px red;
+      text-align: center;
+      color:white;
+    }
+    *{box-sizing: border-box;}
+    .div1{
+      margin: auto;
+     position: relative;
+     height: 775px;
+     width: 700px;
+     background-size: 100% 100%;
+     background-image:url("images/IMG_0304%20(1).JPG");
+     background-repeat: no-repeat;
+     border-radius: 20px;
+        border-radius: 1em;
+      }
+    .text1{
+      position: absolute;
+      top: 3%;
+      color: white;
+      left:2%;
+    
+    }
+    .text2{
+      position: absolute;
+      top:90%;
+      color: blue;
+      left: 55%;
+    }
+    
+    .nav_div1{
+      position:-webkit-sticky;
+      position: sticky;
+      text-align: center;
+      height: 60px;
+      top: 0%;
+      padding-right: 30px;
+      width: 100%;
+      font-size: 15px;
+        margin-left: 1%;
+    }
+    
+    .nav_div1 a{
+      text-decoration: none;
+      height: 100%;
+      float: left;
+      color: black;
+      background-color: aqua;
+      border-right:solid white;
+      width: 20%;
+      text-align: center;
+      padding: 20px;
+      left: 3%;
+    }
+    .nav_div1 a:hover{
+       background-color: black;
+      color:lawngreen;
+    
+    }
+    .myself{
+      background-image: url(images/agewv.gif);
+        font-weight: bold;
+        color: white;
+        margin-left: 11%;
+        
+        padding: 6%;
+        width: 73%;
+    
+    }
+    .connect{
+     font-weight: bold;
+        color: white;
+        margin-left: 11%;
+        
+        padding-right: 2%;
+        padding: 6%;
+        width: 73%;
+    
+    }
+    
+    .hyperlink a{
+      text-decoration: none;
+      float:left;
+      color: black;
+      padding:  4px;
+      width: 18%;
+      text-align: center;
+      background-color: aqua;
+      height: 100%;
+        margin: 1px;
+    
+    
+    
+    }
+    .hyperlink a:hover{
+      background-color: black;
+      color:lawngreen;
+    }
+    
+    
+    .nav_div11{
+        position: -webkit-sticky;
+          position: sticky;
+        z-index: 1;
+          text-align: center;
+          height: 60px;
+          top: 0%;
+          padding-right: 30px;
+          width: 100%;
+          font-size: 15px;
+        margin-left: 2%;
+    }
+    
+    .nav_div11 a{
+      text-decoration: none;
+      height: 100%;
+      float: left;
+      color: black;
+      background-color: aqua;
+      border-right:solid white;
+      width: 14%;
+      text-align: center;
+      padding: 20px;
+      left: 3%;
+        margin-bottom: 1%;
+    }
+    .nav_div11 a:hover{
+       background-color: black;
+      color:lawngreen;
+    
+    }
+    
